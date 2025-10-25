@@ -97,7 +97,7 @@ const animalDescriptions = {
         title: "Aspen",
         description: `Não subestime seu humor sarcástico: Aspen é inteligente, ardiloso e letal quando preciso. Ele adora uma piada, mas é muito perigoso no campo de batalha, Aspen molda as regras a seu favor e se necessário ele mesmo as quebra. Sua lealdade é absoluta, mas seja cauteloso ao cruzar o seu caminho, ela adora pregar peças.\n\n
 
-        Seu presente é o domínio das Sombras: um poder que permite a você não apenas camuflar, mas materializar a escuridão em armas afiadas ou armadilhas inesperadas.\n\n"
+        Seu presente é o domínio das Sombras: um poder que permite a você não apenas camuflar, mas materializar a escuridão em armas afiadas ou armadilhas inesperadas.\n\n
 
         Se quiser o conquistar, Asp ama doces, principalmente Carolinas frescas`,
 
@@ -257,4 +257,5 @@ function restartQuiz() {
 }
 
 // Inicia o quiz ao carregar a página
+
 document.addEventListener('DOMContentLoaded', loadQuestion);
